@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "The Online Arena",
+    "slug": "onebigbitpubg",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#20242a"
+    },
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.theonlinearena.toa"
+    },
+    "android": {
+      "versionCode": 10,
+      "package": "com.theonlinearena.toa",
+      "permissions": [
+
+      ]
+    },
+    "description": "",
+    "notification": {
+      "icon": "./assets/notification.png",
+      "color": "#20242a",
+      "androidMode": "default"
+    }
+  }
+}

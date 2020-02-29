@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "45510503031",
+    "firebase_url": "https://theonlinearenanew.firebaseio.com",
+    "project_id": "theonlinearenanew",
+    "storage_bucket": "theonlinearenanew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45510503031:android:00e364d96e3a8c14d07472",
+        "android_client_info": {
+          "package_name": "com.theonlineArena.toa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45510503031-esgvb2ei0kfg1nnveevqdu8seriibkh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theonlineArena.toa",
+            "certificate_hash": "34b586582a9ac5c5dc7ef14c0d6e7eb99f6ef871"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbE1pu3uZhvn_efEpowJLRCsOY9XcbqDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45510503031:android:970cc81adb1052ded07472",
+        "android_client_info": {
+          "package_name": "com.theonlinearena.toa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbE1pu3uZhvn_efEpowJLRCsOY9XcbqDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
